@@ -60,25 +60,6 @@ The trained model achieved the following performance:
 
 We also visualized the training history to show the model's learning progress over epochs.
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/apple-disease-classifier.git
-   cd apple-disease-classifier
-   ```
-
-2. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the main script:
-   ```bash
-   python main.py
-   ```
-
-4. To classify a single image, use the `upload_and_classify_image()` function.
 
 ## Future Work
 
