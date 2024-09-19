@@ -16,24 +16,7 @@ The dataset used for training and testing the model is the Plant Pathology 2021 
 
 Sample images from the dataset:
 
-<table>
-  <tr>
-    <td><img src="![__results___17_0](https://github.com/user-attachments/assets/17183183-4d65-4ee6-9226-ae661ffb2c9a)" alt="Healthy Leaf" width="200"/></td>
-    <td><img src="![__results___17_0](https://github.com/user-attachments/assets/17183183-4d65-4ee6-9226-ae661ffb2c9a)" alt="Scab Leaf" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Healthy Apple Leaf</em></td>
-    <td align="center"><em>Apple Leaf with Scab</em></td>
-  </tr>
-  <tr>
-    <td><img src="images/rust_leaf.jpg" alt="Rust Leaf" width="200"/></td>
-    <td><img src="images/multiple_diseases_leaf.jpg" alt="Multiple Diseases Leaf" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Apple Leaf with Rust</em></td>
-    <td align="center"><em>Apple Leaf with Multiple Diseases</em></td>
-  </tr>
-</table>
+![__results___13_0](https://github.com/user-attachments/assets/24773840-d2e1-4e8f-89e7-f883778051dd)
 
 ## Methodology
 
@@ -82,4 +65,4 @@ The model demonstrated reasonable generalization, with a small gap between train
 - TensorFlow and Keras for the deep learning framework
 - EfficientNet for the pre-trained model architecture
 
-![__results___17_0](https://github.com/user-attachments/assets/17183183-4d65-4ee6-9226-ae661ffb2c9a)
+
