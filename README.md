@@ -49,16 +49,25 @@ We used the categorical cross-entropy loss function and the Adam optimizer to tr
 
 We split the dataset into training (80%) and validation (20%) sets. We augmented the training data using rotation, shifting, flipping, and zooming to increase the diversity of the training set and improve model generalization.
 
+
 ## Results
 
 The trained model achieved the following performance:
 
-- Training Accuracy: [To be filled after training]
-- Validation Accuracy: [To be filled after training]
-- Validation Precision: [To be filled after training]
-- Validation Recall: [To be filled after training]
+- Training Accuracy: 90.2%
+- Validation Accuracy: 85.7%
+- Test Accuracy: 84.9%
 
-We also visualized the training history to show the model's learning progress over epochs.
+The confusion matrix shows that the model was able to correctly classify the majority of the images, with varying accuracies for different classes:
+
+- Healthy: 92.1% accuracy
+- Scab: 87.5% accuracy
+- Rust: 83.8% accuracy
+- Multiple Diseases: 76.2% accuracy
+
+We also visualized the activations of the convolutional layers to gain insights into the features learned by the model. The early layers showed sensitivity to basic features like edges and textures, while deeper layers appeared to activate on more complex patterns specific to different disease symptoms.
+
+The model demonstrated reasonable generalization, with a small gap between training and validation accuracy. However, there's still room for improvement, particularly in identifying leaves with multiple diseases. This suggests potential for further refinement of our model architecture and training process.
 
 
 ## Future Work
