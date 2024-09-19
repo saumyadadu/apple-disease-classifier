@@ -18,8 +18,8 @@ Sample images from the dataset:
 
 <table>
   <tr>
-    <td><img src="images/healthy_leaf.jpg" alt="Healthy Leaf" width="200"/></td>
-    <td><img src="images/scab_leaf.jpg" alt="Scab Leaf" width="200"/></td>
+    <td><img src="![__results___17_0](https://github.com/user-attachments/assets/17183183-4d65-4ee6-9226-ae661ffb2c9a)" alt="Healthy Leaf" width="200"/></td>
+    <td><img src="![__results___17_0](https://github.com/user-attachments/assets/17183183-4d65-4ee6-9226-ae661ffb2c9a)" alt="Scab Leaf" width="200"/></td>
   </tr>
   <tr>
     <td align="center"><em>Healthy Apple Leaf</em></td>
