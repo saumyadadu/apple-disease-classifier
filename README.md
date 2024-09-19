@@ -81,3 +81,5 @@ The model demonstrated reasonable generalization, with a small gap between train
 - Plant Pathology 2021 - FGVC8 Kaggle Competition for providing the dataset
 - TensorFlow and Keras for the deep learning framework
 - EfficientNet for the pre-trained model architecture
+
+![__results___17_0](https://github.com/user-attachments/assets/17183183-4d65-4ee6-9226-ae661ffb2c9a)
