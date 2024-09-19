@@ -74,7 +74,6 @@ The model demonstrated reasonable generalization, with a small gap between train
 
 - [ ] Experiment with other pre-trained models
 - [ ] Implement cross-validation for more robust evaluation
-- [ ] Develop a web interface for easy image upload and classification
 - [ ] Explore model interpretability techniques to understand which features are most important for classification
 
 ## Acknowledgements
